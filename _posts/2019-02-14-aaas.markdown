@@ -9,7 +9,7 @@ author: "Chia-Kai Yeh, Vikas Gupta, Florian Willomitzer, Dale Kronkright, Aggelo
 authors: "<strong>Chia-Kai Yeh</strong>"
 venue: "2019 American Association for the Advancement of Science Annual Meeting"
 video: http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fz7BLeWgk-a0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz7BLeWgk-a0&amp;type=text%2Fhtml&amp;schema=youtube
-media coverage: https://www.sciencemag.org/news/2019/02/new-app-reveals-hidden-landscapes-within-georgia-o-keeffe-s-paintings?fbclid=IwAR26c6fct3DoT-ekHjJVwPIjvcth4cXzyoFKYTjfWwTZLbvRYYdeauCNBQ4
+mediacoverage: https://www.sciencemag.org/news/2019/02/new-app-reveals-hidden-landscapes-within-georgia-o-keeffe-s-paintings?fbclid=IwAR26c6fct3DoT-ekHjJVwPIjvcth4cXzyoFKYTjfWwTZLbvRYYdeauCNBQ4
 
 ---
 We create a novel hand-held metrology tool detects, maps and monitors destructive micron-sized protrusions resulting from a chemical reaction between the metal ions and fatty acids commonly used as binder in paints in precious works of art. Our system utilize only of a mobile hand held device such as tablets and mobile phone and exploits screen and front camera for Deflectometry-based surface measurements. We demonstrate high quality measurements without the need for an offline calibration procedure. This new tool will help conservators easily and effortlessly map and monitor the strange paint disease and prolong the lives of art.
