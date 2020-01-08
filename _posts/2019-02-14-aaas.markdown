@@ -3,7 +3,7 @@ layout: post
 title:  "Diagnosing a Paint Disease with Computer Science: The Case of Georgia
 O’Keeffe"
 date:   2019-02-14 00:00:00 +00:00
-image: /images/aaas.jpg
+image: /images/aaas.png
 categories: research
 author: "Chia-Kai Yeh"
 authors: "<strong>Chia-Kai Yeh</strong>, Vikas Gupta, Florian Willomitzer, Dale Kronkright, Aggelos Katsaggelos, Marc Walton, Oliver Cossairt"
