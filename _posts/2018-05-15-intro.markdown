@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Introspective Neural Networks"
-date:   2018-05-15 21:21:53 +00:00
-image: /images/intro.jpg
-categories: CMU
-course: "16-824: Visual Learning and Recognition"
-author: "Leo Keselman"
-paper: /pdfs/16824_snpowers_lkeselma.pdf
+title:  "Shape-from-Shifting: Uncalibrated Photometric Stereo with a Mobile Device"
+date:   2017-10-01 21:21:53 +00:00
+image: /images/sfs.png
+categories: research
+authors: " <strong>Chia-Kai Yeh</strong>, Fengqiang Li, Gianluca Pastorelli, Marc Walton, Aggelos K. Katsaggelos, Oliver Cossairt"
+venue: "IEEE International Conference on eScience"
+website: https://compphotolab.northwestern.edu/project/shape-from-shifting-uncalibrated-photometric-stereo-with-a-mobiledevice/
+paper: https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2017/09/mobile_sfs_shape_compress_18.5MB.pdf
 ---
-Using pre-trained neural networks to improve fine grained recognition via style transfer. 
-
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+A mobile device approach for surface normal and shape recovery in the wild.
