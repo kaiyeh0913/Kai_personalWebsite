@@ -6,7 +6,7 @@ image: /images/photogeode.png
 categories: research
 author: "Chia-Kai Yeh"
 authors: "<strong>Chia-Kai Yeh</strong>, TJ Rodes, Bhautik Joshi, Duygu Ceylan, Sunil Hadap"
-venue: "2019 Adobe TechSummit"
+venue: "Adobe TechSummit"
 media: https://research.adobe.com/news/photogeode-3d-faces-from-2d-imagery/
 video: https://www.youtube.com/watch?v=Mv49rJGbtm0&feature=youtu.be
 ---
