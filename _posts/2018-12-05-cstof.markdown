@@ -6,6 +6,6 @@ image: /images/ccd2017.png
 categories: research
 authors: "Fengqiang Li,  Huaijin Chen, Adithya Pediredla, <strong>Chia-Kai Yeh</strong>, Kuan He, Ashok Veeraraghavan, Oliver Cossairt"
 venue: "OSA Optics Express"
-arxiv: https://arxiv.org/abs/1705.05548
+paper: https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2017/11/oe-25-25-31096.pdf
 ---
 Use compressive sensing to improve the lateral resolution of the off-the-shelf ToF cameras.
