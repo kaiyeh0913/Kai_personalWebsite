@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A Streamlined Photometric Stereo Framework for Cultural Heritage"
+date:   2016-10-01 21:21:53 +00:00
+image: /images/pspg.png
+categories: research
+authors: " <strong>Chia-Kai Yeh</strong>, Nathan Matsuda, Xiang Huang, Fengqiang Li, Marc Walton, Oliver Cossairt"
+venue: "ECCV Workshop"
+website: https://compphotolab.northwestern.edu/project/a-streamlined-photometric-stereo-framework-for-cultural-heritage/
+paper: https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2016/08/0006.pdf
+---
+A streamlined framework of robust 3D acquisition for cultural heritage using both photometric stereo and photogrammetric information.
